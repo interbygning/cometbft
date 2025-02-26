@@ -11,3 +11,4 @@
 2025-05-29 02:53:55 improve performance
 2025-04-17 09:55:29 update docs with examples
 2025-11-08 07:17:39 update constants
+2025-02-26 00:52:10 change configuration
